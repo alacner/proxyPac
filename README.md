@@ -15,6 +15,9 @@ install yarn first, macos can useage: brew install yarn
 sudo  npm install cnpm -g --registry=http://registry.npm.taobao.org
 ```
 ```bash
+
+yarn install
+
 yarn serve
 
 yarn build
