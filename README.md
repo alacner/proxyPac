@@ -10,6 +10,10 @@ It may be necessary to change the proxy and connect to the server during develop
 ## Development
 ### commands
 
+install yarn first, macos can useage: brew install yarn
+```
+sudo  npm install cnpm -g --registry=http://registry.npm.taobao.org
+```
 ```bash
 yarn serve
 
